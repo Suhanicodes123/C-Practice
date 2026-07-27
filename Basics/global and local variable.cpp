@@ -10,5 +10,6 @@ int main(){
     c = a + b;
     cout<<"The sum is "<<c<<endl;
     cout<<"The global c is "<<::c;  
+    // :: is called scope resolution operator,used to access global value of a variable
     
 }
