@@ -8,10 +8,10 @@ int main(){
     cout<<"The value of a was: "<<a;
     a = 45; 
     cout<<"The value of a is: "<<a;
-    Constants in C++
+    // Constants in C++
     const int a = 3;
     cout<<"The value of a was: "<<a<<endl;
-    a = 45; // You will get an error because a is a constant
+    a = 45; //  will get an error because a is a constant
     cout<<"The value of a is: "<<a<<endl;
 
     // Manipulators in C++
