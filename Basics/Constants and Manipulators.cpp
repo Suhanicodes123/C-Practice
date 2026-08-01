@@ -16,8 +16,9 @@ int main(){
 
     // Manipulators in C++
     int a =3, b=78, c=1233;
-    cout<<"The value of a without setw is: "<<a<<endl;
     // setw used to specify the width of the output
+    cout<<"The value of a without setw is: "<<a<<endl;
+    
     
     cout<<"The value of b without setw is: "<<b<<endl;
     cout<<"The value of c without setw is: "<<c<<endl;
