@@ -18,7 +18,7 @@ int main(){
     cout<<"These are marks"<<endl;
     cout<<marks[0]<<endl;
     cout<<marks[1]<<endl;
-    // We can also change the value of array
+ // We can also change the value of array
     marks[2] = 39;
     cout<<marks[2]<<endl;
     cout<<marks[3]<<endl;
