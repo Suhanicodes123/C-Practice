@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
- int marks[] = {23,89,40,90};
+    int marks[] = {23,89,40,90};
     int mathmarks[4];
     mathmarks[0] = 100;
     mathmarks[1] = 80;
