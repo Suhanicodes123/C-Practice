@@ -23,7 +23,7 @@ int main(){
     cout<<marks[2]<<endl;
     cout<<marks[3]<<endl;
     
-    // using loops in arrays
+ // using loops in arrays
     for(int i = 0; i<4; i++)
     {
         cout<<"the value of marks "<<i<<" is "<<marks[i]<<endl;
