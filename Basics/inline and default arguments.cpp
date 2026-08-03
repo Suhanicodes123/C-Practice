@@ -20,5 +20,5 @@ int main() {
     int money = 100;
     
     cout<<"if you have "<<money<<" Rs in your bank account, you will receive "<<moneyReceived(money)<< " Rs after one year";
-    
+    return 0;
 }
