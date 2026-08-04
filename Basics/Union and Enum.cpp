@@ -23,7 +23,7 @@ using namespace std;
 
 int main(){
     enum Meal{breakfast, lunch, dinner};
-    // enum use as data type assign nos
+    // enum use as data type assign numbers
     Meal m1 = lunch;
     cout<<(m1==1);
 }
