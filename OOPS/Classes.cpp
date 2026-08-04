@@ -27,6 +27,8 @@ int main(){
     Employee suhani;
     suhani.d = 30;
     suhani.e = 40;
+    // suhani.a = 20; 
+    // can't access it as variable a is private
     suhani.setData(1,2,4);
     suhani.getData();
     return 0;
