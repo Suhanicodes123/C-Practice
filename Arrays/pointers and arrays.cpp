@@ -13,5 +13,6 @@ int main(){
     cout<<"the value of *(p+2) is "<<*(p+2)<<endl;
     cout<<"the value of *(p+3) is "<<*(p+3)<<endl;
 
+
 }
 
