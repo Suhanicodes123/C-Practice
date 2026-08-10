@@ -23,6 +23,7 @@ int main(){
         fb[i].getId();
         
     }
+    return 0;
     
     
 }
