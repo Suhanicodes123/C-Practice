@@ -15,6 +15,7 @@ class Employee{
         }
 };
 
+
 int main(){
     Employee fb[4];
     for (int i = 0; i<4; i++)
