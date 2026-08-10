@@ -24,6 +24,7 @@ int main(){
     {
         cout<<"creating two more objects"<<endl;
         num n2, n3;
+        // as we exit the block the object inside the block(n2 and n3),the destructor is called immediately for them.
         cout<<"exiting this block"<<endl;
     }
     cout<<"back to main"<<endl;
