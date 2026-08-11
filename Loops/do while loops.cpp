@@ -1,4 +1,3 @@
-
 // syntax of do while loop
 // do{
 //     C++ statements;
