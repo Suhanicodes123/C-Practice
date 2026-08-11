@@ -3,7 +3,6 @@
 //     C++ statements;
 // }while(condition);
 
-
 #include<iostream>
 
 using namespace std;
