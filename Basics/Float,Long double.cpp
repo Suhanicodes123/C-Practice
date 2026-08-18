@@ -6,6 +6,7 @@ int main(){
     float d=34.4F;
     // F tells compiler that 34.4 should be stored as a float.
     long double e = 34.4L; 
+    // L tells compiler that 34.4 is a double literal.
     cout<<"The size of 34.4 is "<<sizeof(34.4)<<endl;
     cout<<"The size of 34.4f is "<<sizeof(34.4f)<<endl;
     cout<<"The size of 34.4F is "<<sizeof(34.4F)<<endl;
