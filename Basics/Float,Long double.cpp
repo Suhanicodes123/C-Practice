@@ -4,6 +4,7 @@ int c=45;
 // c is global varianle and as it is outside main() function it can be accessed throughout the program.
 int main(){
     float d=34.4F;
+    // F tells compiler that 34.4 should be stored as a float.
     long double e = 34.4L; 
     cout<<"The size of 34.4 is "<<sizeof(34.4)<<endl;
     cout<<"The size of 34.4f is "<<sizeof(34.4f)<<endl;
