@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int c=45;
+// c is global varianle and as it is outside main() function it can be accessed throughout the program.
 int main(){
     float d=34.4F;
     long double e = 34.4L; 
