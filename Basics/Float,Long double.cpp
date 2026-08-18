@@ -8,6 +8,7 @@ int main(){
     long double e = 34.4L; 
     // L tells compiler that 34.4 is a double literal.
     cout<<"The size of 34.4 is "<<sizeof(34.4)<<endl;
+    // by default decimal numbers are considered as long double.
     cout<<"The size of 34.4f is "<<sizeof(34.4f)<<endl;
     cout<<"The size of 34.4F is "<<sizeof(34.4F)<<endl;
     cout<<"The size of 34.4l is "<<sizeof(34.4l)<<endl;
