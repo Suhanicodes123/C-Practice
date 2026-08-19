@@ -17,4 +17,5 @@ int main(){
     cout<<"the value of eID "<<suhani.eID<<endl;
     cout<<"the value of favChar "<<suhani.favChar<<endl;
     cout<<"the value of salary "<<suhani.salary<<endl;
+    return 0;
 }
