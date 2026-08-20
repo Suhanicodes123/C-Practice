@@ -14,4 +14,5 @@ int main(){
     cin>>a;
     cout<<"the factorial of "<<a<<" is "<<factorial(a)<<endl;
     return 0;
+    
 }
